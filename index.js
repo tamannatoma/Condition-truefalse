@@ -21,5 +21,6 @@ askQuestion("The Great Wall of China is the only man made structure visible from
 askQuestion("Feeling sleepy need to sleep", true)
 
 alert(`You got ${points} points`);
+console.log(`Your total points : ${points}`);
 
 
